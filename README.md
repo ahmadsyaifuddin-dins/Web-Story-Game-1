@@ -1,6 +1,6 @@
 ## WebsiteSyai
 
 Hello guys,
-welcome to my website.
+This First My Web Created
 
-Disini saya membagikan informasi yang bermanfaat saja 😄
+Web Story Game of Half Life 🎮
